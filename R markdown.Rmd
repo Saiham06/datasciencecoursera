@@ -1,0 +1,12 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
+---
+title: "HelloWorld.md"
+author: "Saiham Ahamed"
+date: "5/9/2020"
+output: word_document
+
+##This is an R Markdown file.
